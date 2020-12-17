@@ -1,6 +1,6 @@
 {
   "name": "hammertime-test-package",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -14,5 +14,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "021883433b6614eaf0d1ef4a04a4bf3d489279d0"
 }
